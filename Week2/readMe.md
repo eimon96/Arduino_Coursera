@@ -1,4 +1,8 @@
-potentiometerLED Demo:
+potentiometerLED instructions:
+
+https://www.arduino.cc/en/Tutorial/BuiltInExamples/AnalogInOutSerial
+
+Demo:
 
 https://twitter.com/eimon9j6/status/1358785193457377282
 
